@@ -71,7 +71,7 @@ body {
 .sale-price {
     font-family: 'Fraunces', serif;
     color: hsl(158, 36%, 37%);
-    font-size: 25px;
+    font-size: 32px;
 }
 
 .normal-price {
@@ -92,11 +92,13 @@ body {
     text-decoration: none;
     display: inline-block;
     margin-top: 2rem;
+    text-align: center;
 }
 
 .add-to-cart img {
     padding: 0 10px;
 }
+
 
 @media (max-width: 375px) {
     .product-card {
